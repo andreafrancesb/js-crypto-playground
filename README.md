@@ -19,6 +19,4 @@ npm run start:addresses
 
 ```
 npm run start:hashing
-```
-# future-proof-demo
-# future-proof-demo
+```# js-crypto-playground
